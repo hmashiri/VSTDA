@@ -1,0 +1,37 @@
+{
+  "name": "hadjirmashiri",
+  "version": "1.0.0",
+  "description": "building soccer player info app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hadjir Mashiri",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.6.1",
+    "angular-ui-router": "^0.3.2",
+    "babel-cli": "^6.11.4",
+    "babel-core": "^6.13.2",
+    "babel-preset-es2015": "^6.13.2",
+    "babel-preset-react": "^6.11.1",
+    "bootstrap": "^3.3.7",
+    "ejs": "^2.5.5",
+    "express": "^4.14.1",
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-inject": "^4.2.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-open": "^2.0.0",
+    "jquery": "^3.1.1",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "react-router": "^2.6.1",
+    "wiredep": "^4.0.0"
+  },
+  "devDependencies": {
+    "babel-loader": "^6.2.10",
+    "http-server": "^0.9.0",
+    "webpack": "^1.13.3"
+  }
+}
