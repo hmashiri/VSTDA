@@ -3,7 +3,7 @@
   "authors": [
     "Hadjir Mashiri <hmashiri@hotmail.com>"
   ],
-  "description": "Portfolio",
+  "description": "To Do App",
   "main": "index.html",
   "keywords": [
     "A",
@@ -25,6 +25,7 @@
     "angular": "^1.6.1",
     "jquery": "^3.1.1",
     "angular-ui-router": "^0.3.2",
-    "react": "^15.4.2"
+    "react": "^15.4.2",
+    "font-awesome": "^4.7.0"
   }
 }
